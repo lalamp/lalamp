@@ -6,6 +6,6 @@ Sou Larissa, estudante de Ciência da Computação na Universidade de São Paulo
 
 ✨ Skills:
  - Linguagens: C, C++, Java, Python, JavaScript
- - Tecnologias Web: HTML, CSS, React, NextJS
+ - Front-End:  HTML, CSS, React, NextJS, Flutter
  - Databases: SQL, PostgreSQL
  - Soft Skills: raciocínio lógico, aprendizado rápido, motivação para aprender coisas novas, organização
